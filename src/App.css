@@ -190,7 +190,12 @@
         margin: 1.75rem;
     }
 
-    #search-input{
-        width: 200px;
+    .options button{
+        margin: 0.5rem;
+    }
+    .options{
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: row;
     }
 }
